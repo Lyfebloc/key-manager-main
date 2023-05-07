@@ -1,0 +1,18 @@
+EXT_SECRET_KEY, EXT_PUBLIC_KEY # Network                 : Prefixes
+----------------------------------------------------------------------
+0x0488ADE4,     0x0488B21E     # BTC  Bitcoin    mainnet : xprv / xpub
+0x04358394,     0x043587CF     # BTC  Bitcoin    testnet : tprv / tpub
+0x019D9CFE,     0x019DA462     # LTC  Litecoin   mainnet : Ltpv / Ltub
+0x0436EF7D,     0x0436F6E1     # LTC  Litecoin   testnet : ttpv / ttub
+0x02FE52F8,     0x02FE52CC     # DRK  Darkcoin   mainnet : drkv / drkp
+0x3A8061A0,     0x3A805837     # DRK  Darkcoin   testnet : DRKV / DRKP
+0x0488ADE4,     0x0488B21E     # VIA  Viacoin    mainnet : xprv / xpub
+0x04358394,     0x043587CF     # VIA  Viacoin    testnet : tprv / tpub
+0x02FAC398,     0x02FACAFD     # DOGE Dogecoin   mainnet : dgpv / dgub
+0x0488ADE4,     0x0488B21E     # VTC  Vertcoin   mainnet : vtcv / vtcp
+0x02CFBF60,     0x02CFBEDE     # BC   Blackcoin  mainnet : bcpv / bcpb
+0x03A04DB7,     0x03A04D8B     # MEC  Megacoin   mainnet : mecv / mecp
+0x0488ADE4,     0x0488B21E     # MYR  Myriadcoin mainnet : myrv / myrp
+0x0488ADE4,     0x0488B21E     # UNO  Unobtanium mainnet : unov / unop
+0x037A6460,     0x037A689A     # JBS  Jumbucks   mainnet : jprv / jpub
+0x0488ADE4,     0x0488B21E     # MZC  Mazacoin   mainnet : xprv / xpub
